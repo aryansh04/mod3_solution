@@ -1,0 +1,44 @@
+*{	
+	box-sizing: border-box;
+}
+#header-nav {
+	background-color: #6f1219;
+	color: #f6b219;
+}
+
+#companyname{
+	font-size: 30px;
+	font-family: helvetica;	
+	color: #f6b219;
+}
+
+li {	
+	color: #f6b219;
+	font-weight: bold;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid  #f6b219;
+}
+
+#nav-list span {
+	color:  #f6b219;
+}
+
+.row {
+	width: 100%
+}
+
+.box{	
+	height: auto;
+	position: relative;
+	background-color: lightgrey;
+	color: black;
+	margin-bottom: 15px;
+	border: 1px solid black;	
+	font-family: sans-serif;
+}
+
+.boxbody {
+	padding: 10px;
+}
